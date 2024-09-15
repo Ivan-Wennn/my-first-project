@@ -1,2 +1,1 @@
-# my-first-project
-This is my first assignment on Github
+# STA 130 HW 1 Ivan(Ruocheng) Wen
